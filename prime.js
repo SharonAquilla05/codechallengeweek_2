@@ -12,4 +12,4 @@ function generatePrimeNumbers(array){
 }
 return result;
     }
-console.log(generatePrimeNumbers(array))
+console.log(generatePrimeNumbers())
